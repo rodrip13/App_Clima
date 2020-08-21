@@ -7,8 +7,6 @@ Shows:
 - Humidity / Humedad
 - Atmospheric pressure / Presion atmosferica
 
-API used: OpenWeatherMap (https://openweathermap.org/api)
+API usada / API used: OpenWeatherMap (https://openweathermap.org/api)
 
-Icons pack used: Skycons (https://darkskyapp.github.io/skycons/)
-
-Build using HTML / CSS / JavaScript
+Construído / Build using HTML / CSS / JavaScript
